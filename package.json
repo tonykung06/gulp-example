@@ -1,0 +1,34 @@
+{
+  "name": "gulp-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonykung06/gulp-example.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Tony Kung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonykung06/gulp-example/issues"
+  },
+  "homepage": "https://github.com/tonykung06/gulp-example#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.7",
+    "gulp-jshint": "^2.0.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "jshint": "^2.9.2"
+  },
+  "dependencies": {
+    "del": "^2.2.0"
+  }
+}
